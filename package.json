@@ -1,0 +1,7 @@
+{
+    "name": "framework-wizio-nuttx",
+    "description": "PlatformIO NuttX Framework 2024 Georgi Angelov",
+    "url": "https://github.com/Wiz-IO/framework-wizio-nuttx",
+    "system": "*",
+    "version": "1.0.0"
+}
